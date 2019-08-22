@@ -30,7 +30,7 @@ docker-compose run --service-ports node ash -c "cd comp-highlighter; yarn add gh
 package.jsonに以下を追記
 
 ```
-"homepage": "https://k8shiro.github.io/react-docker-base"
+"homepage": "https://k8shiro.github.io/ReactCompareCodeHighlighter"
 ```
 
 build

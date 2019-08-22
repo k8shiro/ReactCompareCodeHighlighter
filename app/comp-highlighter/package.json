@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.3.3",
+    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-highlight.js": "^1.0.7",
@@ -31,5 +32,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://k8shiro.github.io/react-docker-base"
+  "homepage": "https://k8shiro.github.io/ReactCompareCodeHighlighter"
 }
