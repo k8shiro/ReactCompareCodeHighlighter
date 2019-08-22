@@ -1,0 +1,11 @@
+version: "3"
+services:
+  node:
+    build:
+      context: ./node
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./app:/usr/src/app
+    ports:
+      - "33000:3000"
