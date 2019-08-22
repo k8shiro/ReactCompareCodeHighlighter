@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-docker-base/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-docker-base/static/js/main.fcb53a24.chunk.js",
+    "main.js.map": "/react-docker-base/static/js/main.fcb53a24.chunk.js.map",
+    "runtime~main.js": "/react-docker-base/static/js/runtime~main.b4de0de7.js",
+    "runtime~main.js.map": "/react-docker-base/static/js/runtime~main.b4de0de7.js.map",
+    "static/js/2.9a5542eb.chunk.js": "/react-docker-base/static/js/2.9a5542eb.chunk.js",
+    "static/js/2.9a5542eb.chunk.js.map": "/react-docker-base/static/js/2.9a5542eb.chunk.js.map",
+    "index.html": "/react-docker-base/index.html",
+    "precache-manifest.f8d140f88bfc65b91053bcd016a74e19.js": "/react-docker-base/precache-manifest.f8d140f88bfc65b91053bcd016a74e19.js",
+    "service-worker.js": "/react-docker-base/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/react-docker-base/static/css/main.34de6062.chunk.css.map"
+  }
+}
