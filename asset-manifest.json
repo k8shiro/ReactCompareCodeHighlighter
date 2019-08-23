@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactCompareCodeHighlighter/static/css/main.34de6062.chunk.css",
-    "main.js": "/ReactCompareCodeHighlighter/static/js/main.e4b125e3.chunk.js",
-    "main.js.map": "/ReactCompareCodeHighlighter/static/js/main.e4b125e3.chunk.js.map",
+    "main.js": "/ReactCompareCodeHighlighter/static/js/main.4c49867f.chunk.js",
+    "main.js.map": "/ReactCompareCodeHighlighter/static/js/main.4c49867f.chunk.js.map",
     "runtime~main.js": "/ReactCompareCodeHighlighter/static/js/runtime~main.2aefea98.js",
     "runtime~main.js.map": "/ReactCompareCodeHighlighter/static/js/runtime~main.2aefea98.js.map",
-    "static/js/2.da209a8f.chunk.js": "/ReactCompareCodeHighlighter/static/js/2.da209a8f.chunk.js",
-    "static/js/2.da209a8f.chunk.js.map": "/ReactCompareCodeHighlighter/static/js/2.da209a8f.chunk.js.map",
+    "static/js/2.75b05fdc.chunk.js": "/ReactCompareCodeHighlighter/static/js/2.75b05fdc.chunk.js",
+    "static/js/2.75b05fdc.chunk.js.map": "/ReactCompareCodeHighlighter/static/js/2.75b05fdc.chunk.js.map",
     "index.html": "/ReactCompareCodeHighlighter/index.html",
-    "precache-manifest.8963ff9998b7a65d553ff71122951f2d.js": "/ReactCompareCodeHighlighter/precache-manifest.8963ff9998b7a65d553ff71122951f2d.js",
+    "precache-manifest.c72cbb712f5218e8879b168f8c44d8a8.js": "/ReactCompareCodeHighlighter/precache-manifest.c72cbb712f5218e8879b168f8c44d8a8.js",
     "service-worker.js": "/ReactCompareCodeHighlighter/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/ReactCompareCodeHighlighter/static/css/main.34de6062.chunk.css.map"
   }
