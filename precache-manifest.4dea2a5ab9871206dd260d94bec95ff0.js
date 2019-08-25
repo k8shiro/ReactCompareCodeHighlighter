@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04134c8790d3c6412bffeb7462c91b69",
+    "revision": "b99cd7025bc91c2ecdbf34c136b78cdf",
     "url": "/ReactCompareCodeHighlighter/index.html"
   },
   {
-    "revision": "0a4246da92b52dcea959",
+    "revision": "a361a8c44b52d76f525e",
     "url": "/ReactCompareCodeHighlighter/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactCompareCodeHighlighter/static/js/2.5338f7c5.chunk.js"
   },
   {
-    "revision": "0a4246da92b52dcea959",
-    "url": "/ReactCompareCodeHighlighter/static/js/main.7fe69f15.chunk.js"
+    "revision": "a361a8c44b52d76f525e",
+    "url": "/ReactCompareCodeHighlighter/static/js/main.eae1fc6f.chunk.js"
   },
   {
     "revision": "6dab39469734c3758bf5",
