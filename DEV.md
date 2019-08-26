@@ -43,5 +43,5 @@ docker-compose run --service-ports node ash -c "cd comp-highlighter; yarn build"
 ※ gh-pages追加・buildが必要
 
 ```
-docker-compose run --service-ports node ash -c "cd comp-highlighter; yarn run gh-pages --user 'k8shiro <my.github@mail.addr>' --repo https://github.com/k8shiro/ReactCompareCodeHighlighter -d build"
+docker-compose run --service-ports node ash -c "cd comp-highlighter; yarn run gh-pages --user 'username <my.github@mail.addr>' --repo https://github.com/k8shiro/ReactCompareCodeHighlighter -d build"
 ```
